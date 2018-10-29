@@ -1,6 +1,5 @@
 // HEADER FILES -----------------------------------------------
 #ifndef HEAD
-#include <iostream>
 #include <arpa/inet.h>
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -18,7 +17,6 @@
 #include <netdb.h>
 #include <unistd.h>
 #include <signal.h>
-#include <vector>
 #include <sstream>
 #include <errno.h>
 #include <fcntl.h>
